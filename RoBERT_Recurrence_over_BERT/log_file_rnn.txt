@@ -1,0 +1,180 @@
+
+=============== EPOCH 1 / 10 ===============
+
+*** avg_loss : 0.65, time : ~38.0 min (2298.30 sec) ***
+==> evaluation : avg_loss = 0.63, time : 373.62 sec
+ACCURACY: 0.9090050458908081CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.91      0.40      0.55      1468
+           1       0.98      1.00      0.99      1549
+           2       0.89      0.59      0.71      1961
+           3       0.86      0.22      0.35      1409
+           4       1.00      1.00      1.00      1808
+
+   micro avg       0.95      0.66      0.78      8195
+   macro avg       0.93      0.64      0.72      8195
+weighted avg       0.93      0.66      0.74      8195
+ samples avg       0.80      0.78      0.79      8195
+
+=============== EPOCH 2 / 10 ===============
+
+*** avg_loss : 0.63, time : ~34.0 min (2081.11 sec) ***
+==> evaluation : avg_loss = 0.63, time : 322.47 sec
+ACCURACY: 0.9065544605255127CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.80      0.49      0.61      1468
+           1       0.99      0.98      0.99      1549
+           2       0.87      0.59      0.70      1961
+           3       0.81      0.20      0.32      1409
+           4       1.00      0.99      0.99      1808
+
+   micro avg       0.93      0.67      0.78      8195
+   macro avg       0.89      0.65      0.72      8195
+weighted avg       0.90      0.67      0.74      8195
+ samples avg       0.81      0.79      0.79      8195
+
+=============== EPOCH 3 / 10 ===============
+
+*** avg_loss : 0.63, time : ~34.0 min (2083.45 sec) ***
+==> evaluation : avg_loss = 0.62, time : 323.61 sec
+ACCURACY: 0.9119870066642761CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.85      0.51      0.64      1468
+           1       0.99      0.99      0.99      1549
+           2       0.88      0.60      0.71      1961
+           3       0.77      0.27      0.40      1409
+           4       0.99      1.00      0.99      1808
+
+   micro avg       0.93      0.69      0.79      8195
+   macro avg       0.90      0.67      0.75      8195
+weighted avg       0.90      0.69      0.76      8195
+ samples avg       0.83      0.81      0.82      8195
+
+=============== EPOCH 4 / 10 ===============
+
+*** avg_loss : 0.63, time : ~34.0 min (2085.44 sec) ***
+==> evaluation : avg_loss = 0.63, time : 323.71 sec
+ACCURACY: 0.9106879234313965CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.83      0.52      0.64      1468
+           1       1.00      0.98      0.99      1549
+           2       0.85      0.63      0.72      1961
+           3       0.80      0.23      0.36      1409
+           4       1.00      0.99      0.99      1808
+
+   micro avg       0.92      0.69      0.79      8195
+   macro avg       0.90      0.67      0.74      8195
+weighted avg       0.90      0.69      0.76      8195
+ samples avg       0.83      0.80      0.81      8195
+
+=============== EPOCH 5 / 10 ===============
+
+*** avg_loss : 0.62, time : ~34.0 min (2081.54 sec) ***
+==> evaluation : avg_loss = 0.63, time : 322.93 sec
+ACCURACY: 0.9120460748672485CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.83      0.58      0.68      1468
+           1       0.99      0.98      0.99      1549
+           2       0.83      0.64      0.72      1961
+           3       0.80      0.26      0.39      1409
+           4       0.99      0.99      0.99      1808
+
+   micro avg       0.91      0.70      0.79      8195
+   macro avg       0.89      0.69      0.75      8195
+weighted avg       0.89      0.70      0.77      8195
+ samples avg       0.84      0.81      0.82      8195
+
+=============== EPOCH 6 / 10 ===============
+
+*** avg_loss : 0.63, time : ~34.0 min (2081.71 sec) ***
+==> evaluation : avg_loss = 0.63, time : 324.26 sec
+ACCURACY: 0.909831702709198CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.85      0.50      0.63      1468
+           1       0.96      0.99      0.97      1549
+           2       0.86      0.59      0.70      1961
+           3       0.76      0.33      0.46      1409
+           4       1.00      0.98      0.99      1808
+
+   micro avg       0.91      0.69      0.79      8195
+   macro avg       0.89      0.68      0.75      8195
+weighted avg       0.89      0.69      0.76      8195
+ samples avg       0.83      0.81      0.81      8195
+
+=============== EPOCH 7 / 10 ===============
+
+*** avg_loss : 0.63, time : ~34.0 min (2086.77 sec) ***
+==> evaluation : avg_loss = 0.63, time : 322.81 sec
+ACCURACY: 0.9019486308097839CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.80      0.55      0.65      1468
+           1       0.99      0.98      0.98      1549
+           2       0.81      0.59      0.68      1961
+           3       0.83      0.10      0.18      1409
+           4       1.00      0.99      0.99      1808
+
+   micro avg       0.91      0.66      0.77      8195
+   macro avg       0.88      0.64      0.70      8195
+weighted avg       0.89      0.66      0.71      8195
+ samples avg       0.80      0.77      0.78      8195
+
+=============== EPOCH 8 / 10 ===============
+
+*** avg_loss : 0.63, time : ~34.0 min (2083.82 sec) ***
+==> evaluation : avg_loss = 0.63, time : 323.02 sec
+ACCURACY: 0.8977265954017639CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.91      0.21      0.34      1468
+           1       0.99      0.98      0.99      1549
+           2       0.82      0.63      0.71      1961
+           3       0.62      0.39      0.48      1409
+           4       0.98      1.00      0.99      1808
+
+   micro avg       0.89      0.66      0.76      8195
+   macro avg       0.86      0.64      0.70      8195
+weighted avg       0.87      0.66      0.72      8195
+ samples avg       0.79      0.77      0.78      8195
+
+=============== EPOCH 9 / 10 ===============
+
+*** avg_loss : 0.63, time : ~34.0 min (2082.31 sec) ***
+==> evaluation : avg_loss = 0.63, time : 323.60 sec
+ACCURACY: 0.9083554744720459CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.87      0.50      0.64      1468
+           1       0.99      0.98      0.98      1549
+           2       0.83      0.62      0.71      1961
+           3       0.72      0.32      0.44      1409
+           4       0.98      0.99      0.98      1808
+
+   micro avg       0.91      0.69      0.79      8195
+   macro avg       0.88      0.68      0.75      8195
+weighted avg       0.88      0.69      0.76      8195
+ samples avg       0.83      0.80      0.81      8195
+
+=============== EPOCH 10 / 10 ===============
+
+*** avg_loss : 0.62, time : ~34.0 min (2084.74 sec) ***
+==> evaluation : avg_loss = 0.63, time : 323.84 sec
+ACCURACY: 0.9058753848075867CLASSIFICATION_REPORT:
+              precision    recall  f1-score   support
+
+           0       0.86      0.32      0.46      1468
+           1       0.99      0.98      0.99      1549
+           2       0.86      0.61      0.71      1961
+           3       0.76      0.35      0.48      1409
+           4       0.99      0.99      0.99      1808
+
+   micro avg       0.92      0.67      0.77      8195
+   macro avg       0.89      0.65      0.73      8195
+weighted avg       0.90      0.67      0.74      8195
+ samples avg       0.79      0.77      0.78      8195
